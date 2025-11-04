@@ -1,115 +1,106 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Okes2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>👋 Hi, I'm Okes Imoni!</h1>
+<h3>🌟 A Passionate Data Scientist and Climate Change at Geosoft Global Innovation Limited🌍</h3>
 
-Here are some ideas to get you started:
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Okes2024&label=Profile%20views&color=blueviolet&style=flat" alt="Okes2024 profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">👋 Hi, I'm Okes Imoni!</h1>
-<h3 align="center">🚀 A Curious Data Scientist and Climate Change at Geosoft Global Innovation Limited 🌐</h3>
+</div>
+
+---
+
+### 🚀 About Me
+
+- 🔭 <strong>Currently working on</strong>: <a href="https://github.com/Okes2024/Leveraging-Data-and-Visualization-to-Understand-the-2018-to-2024-Nigeria-Floods">Leveraging Data and Visualization (2018-2024 Nigeria Floods)</a>  
+- 🌱 <strong>Learning</strong>: Deep learning with ArcGIS, TensorFlow, and geospatial data (Earth Engine)  
+- 👯 <strong>Collaborating on</strong>: <a href="https://github.com/Okes2024/Flood-Mapping-and-Monitoring-in-Niger-Delta-Nigeria-">Flood Mapping in Niger Delta, Nigeria</a>  
+- 🤝 <strong>Seeking help with</strong>: <a href="https://github.com/Okes2024/Air-Quality-Prediction-Model">Air Quality Prediction Model</a>  
+- 💬 <strong>Ask me about</strong>:  
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-235A9D?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch badge" />
+
+- 📝 <strong>Articles</strong>: <a href="https://www.linkedin.com/in/Okes">LinkedIn</a>  
+- 📫 <strong>Contact</strong>: <a href="mailto:jennyimoni@gmail.com">jennyimoni@gmail.com</a>  
+- ⚡ <strong>Fun fact</strong>: Geospatial analysts are digital explorers—mapping Earth’s secrets! 🌌
+
+---
+
+### 📊 GitHub Stats (auto dark/light)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Okes2024&show_icons=true&theme=tokyonight" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Okes2024&theme=tokyonight" width="48%" /> </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Okes2024&label=Profile%20views&color=0e75b6&style=flat" alt="Okes2024" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Okes2024/Okes2024/main/profile-summary-card-output/radical/3-stats.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Okes2024/Okes2024/main/profile-summary-card-output/github/3-stats.svg">
+    <img alt="Stats summary" src="https://raw.githubusercontent.com/Okes2024/Okes2024/main/profile-summary-card-output/radical/3-stats.svg">
+  </picture>
+</p>
+<p align="center"> <b>📆 2024</b><br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Okes2024&from=2024-01-01&to=2024-12-31&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph%20(2024)" width="100%"/> </p> <p align="center"> <b>📆 2025 (to date)</b><br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Okes2024&from=2025-01-01&to=2025-10-16&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph%20(2025)" width="100%"/> </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Okes2024/Okes2024/main/profile-summary-card-output/radical/1-repos-per-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Okes2024/Okes2024/main/profile-summary-card-output/github/1-repos-per-language.svg">
+    <img alt="Repositories per language" src="https://raw.githubusercontent.com/Okes2024/Okes2024/main/profile-summary-card-output/radical/1-repos-per-language.svg">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Okes2024/Okes2024/main/profile-summary-card-output/radical/2-most-commit-language.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Okes2024/Okes2024/main/profile-summary-card-output/github/2-most-commit-language.svg">
+    <img alt="Most-commit language" src="https://raw.githubusercontent.com/Okes2024/Okes2024/main/profile-summary-card-output/radical/2-most-commit-language.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Okes2024/Okes2024/main/profile-summary-card-output/radical/4-productive-time.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Okes2024/Okes2024/main/profile-summary-card-output/github/4-productive-time.svg">
+    <img alt="Commit productive time" src="https://raw.githubusercontent.com/Okes2024/Okes2024/main/profile-summary-card-output/radical/4-productive-time.svg">
+  </picture>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 💻 Tech Stack
 
-- 🏢 **Current Role**: Data Scientist at [Geosoft Global Innovation Limited](#)
-- 🔍 **Focus Areas**: Environmental data science, AI-powered geospatial analysis, predictive modeling
-- 🌱 **Learning**: Advanced Earth Engine scripting, LSTM for environmental time series, and BigQuery for geospatial analytics
-- 🤝 **Open to Collaborate on**: Climate change monitoring, land use classification, AI for agriculture
-- 💬 **Ask Me About**:
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-  ![Earth Engine](https://img.shields.io/badge/-EarthEngine-34A853?style=for-the-badge&logo=googleearth&logoColor=white)
-  ![QGIS](https://img.shields.io/badge/-QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-- 📫 **Reach Me At**: [jennyimoni@gmail.com](jennyimoni@gmail.com)
-- 🧠 **Fun Fact**: I use code to turn satellite pixels into climate insights! 🛰️📊
-
----
-
-### 📈 Top 10 Project Performance
-
-Here are some of my standout projects based on performance, innovation, and impact:
-
+#### Core Tools
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Land Cover (Warri)','Flood Mapping','Oil Spill (GEE)','NDVI Suite','Air Quality','GEE LST Model','Agri Health','Deforestation RS','Urban Trends','Wetlands Dashboard'],datasets:[{label:'Score',data:[95,90,88,85,80,78,75,72,70,68],backgroundColor:'rgba(54, 162, 235, 0.6)'}]},options:{indexAxis:'y',plugins:{legend:{display:false},title:{display:true,text:'Top 10 Project Performance'}},scales:{x:{min:0,max:100}}}}" alt="Top 10 Project Performance Chart" width="700"/>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"></a>
+  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg" alt=".NET" width="40" height="40"></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
+  <a href="https://www.chartjs.org"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"></a>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
-
+### 🌍 GIS Tools
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Okes2024&show_icons=true&hide_border=true&theme=tokyonight" alt="Okes2024 GitHub Stats" />
-</p>  
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Okes2024&theme=tokyonight&hide_border=true" alt="Okes2024 Streak Stats" />
-</p>  
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Okes2024&layout=compact&theme=tokyonight&hide_border=true" alt="Okes2024 Top Languages" />
-</p>  
-
----
-
-### 🧰 Tech Toolbox
-
-#### 🖥️ Languages & Frameworks
-<p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" /></a>
+  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview"><img src="https://img.shields.io/badge/ArcGIS-FF7F32?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS badge"></a>
+  <a href="https://earthengine.google.com/"><img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Earth Engine badge"></a>
+  <a href="https://qgis.org/"><img src="https://img.shields.io/badge/QGIS-A6CE39?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS badge"></a>
+  <a href="https://saga-gis.sourceforge.io/en/index.html"><img src="https://img.shields.io/badge/SAGA%20GIS-005588?style=for-the-badge" alt="SAGA GIS badge"></a>
+  <a href="https://grass.osgeo.org/"><img src="https://img.shields.io/badge/GRASS%20GIS-64A33E?style=for-the-badge" alt="GRASS GIS badge"></a>
+  <a href="https://postgis.net/"><img src="https://img.shields.io/badge/PostGIS-4F5155?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostGIS badge (PostgreSQL logo)"></a>
 </p>
 
 ---
 
-### 🌍 GIS & Remote Sensing Tools
-
+### 🌐 Connect with Me
 <p align="center">
-  <a href="https://earthengine.google.com/" target="_blank"><img src="https://img.shields.io/badge/Google%20Earth%20Engine-%234285F4.svg?style=for-the-badge&logo=googleearth&logoColor=white" /></a>
-  <a href="https://qgis.org/" target="_blank"><img src="https://img.shields.io/badge/QGIS-%23A6CE39.svg?style=for-the-badge&logo=qgis&logoColor=white" /></a>
-  <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank"><img src="https://img.shields.io/badge/ArcGIS-%23f47920.svg?style=for-the-badge&logo=arcgis&logoColor=white" /></a>
-  <a href="https://saga-gis.sourceforge.io/en/index.html" target="_blank"><img src="https://img.shields.io/badge/SAGA%20GIS-%23005588.svg?style=for-the-badge&logo=geography&logoColor=white" /></a>
-  <a href="https://postgis.net/" target="_blank"><img src="https://img.shields.io/badge/PostGIS-%234F5155.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/Okes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@Okes"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
 ---
 
-### 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/Okes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:jennyimoni@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-### 🎯 Current Goals
-
-- 🔍 Develop satellite-based pollution detection systems  
-- 📡 Map climate change impacts using Google Earth Engine  
-- 📚 Write insightful articles on environmental analytics  
-
----
-
-### ⚡ Just for Fun  
-
-- 🧭 Mapping change, one pixel at a time  
-- 🎨 Turning data into art  
-- 🤖 Exploring the synergy of AI + Earth  
-
----
+### ⚡ Fun Extras
+- 🎨 Passionate about data visualization and storytelling  
+- 🌍 Exploring geospatial trends with cutting-edge ML/AI tools  
+- 🧑‍🔬 Bringing the real world into models—one dataset at a time!
