@@ -41,7 +41,7 @@
     <img alt="Stats summary" src="https://raw.githubusercontent.com/Okes2024/Okes2024/main/profile-summary-card-output/radical/3-stats.svg">
   </picture>
 </p>
-<p align="center"> <b>📆 2024</b><br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Okes2024&from=2024-01-01&to=2024-12-31&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph%20(2024)" width="100%"/> </p> <p align="center"> <b>📆 2025 (to date)</b><br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Okes2024&from=2025-01-01&to=2025-10-16&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph%20(2025)" width="100%"/> </p>
+<p align="center"> <b>📆 2024</b><br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Okes2024&from=2024-01-01&to=2024-12-31&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph%20(2024)" width="50%"/> </p> <p align="center"> <b>📆 2025 (to date)</b><br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Okes2024&from=2025-01-01&to=2025-10-16&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph%20(2025)" width="50%"/> </p>
 
 <p align="center">
   <picture>
@@ -75,7 +75,7 @@
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"></a>
   <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg" alt=".NET" width="40" height="40"></a>
   <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
-  <a href="https://www.chartjs.org"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"></a>
+  <a href="https://www.chartjs.org"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="20" height="40"></a>
 </p>
 
 ---
