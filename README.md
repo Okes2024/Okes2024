@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>👋 Hi, I'm Okes Imoni!</h1>
-<h3>🌟 A Passionate Data Scientist and Climate Change at Geosoft Global Innovation Limited🌍</h3>
+<h3>🌟 A Passionate Data Scientist and Climate Change at Golden Viosam Nig. Ltd🌍</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Okes2024&label=Profile%20views&color=blueviolet&style=flat" alt="Okes2024 profile views" />
